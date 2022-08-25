@@ -5,7 +5,7 @@ A simple python program to simulate gravitational pulls of point mass objects. T
 Progam takes in optional arguments when starting from command line. 
 - -a: Load a file with particle information
 - -c: Calcuate particle positions. Will ask for number of seconds to simulate
-- -l: Loads a file containing particle positions that have already been caculated and saved
+- -l: Loads a file containing particle positions that have already been calculated and saved
 - -s: Save calculations to a file
 
 During a simulation you can click the spacebar to pause the screen.
